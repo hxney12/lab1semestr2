@@ -1,0 +1,3 @@
+C:/Users/GamerPC/OneDrive/Рабочий стол/res1/res1/lab1semestr2/NewRes1/CMakeFiles/Res2.dir
+C:/Users/GamerPC/OneDrive/Рабочий стол/res1/res1/lab1semestr2/NewRes1/CMakeFiles/ALL_BUILD.dir
+C:/Users/GamerPC/OneDrive/Рабочий стол/res1/res1/lab1semestr2/NewRes1/CMakeFiles/ZERO_CHECK.dir
