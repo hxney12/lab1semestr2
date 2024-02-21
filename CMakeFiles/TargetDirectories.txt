@@ -1,3 +1,0 @@
-C:/Users/hxney/Documents/GitHub/lab1semestr2/NewRes1/CMakeFiles/res1111.dir
-C:/Users/hxney/Documents/GitHub/lab1semestr2/NewRes1/CMakeFiles/ALL_BUILD.dir
-C:/Users/hxney/Documents/GitHub/lab1semestr2/NewRes1/CMakeFiles/ZERO_CHECK.dir
