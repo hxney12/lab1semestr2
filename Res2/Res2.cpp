@@ -1,27 +1,38 @@
-﻿
-#include <iostream>
+﻿#include <iostream>
 #include <math.h>
 
 using namespace std;
 
 int main()
 {
-    unsigned int X = 7;
-    // 7 = 00000111
-    //unsigned char X = 98; 
-    // 98 = 01100010
-    //unsigned char X = 241; 
-    // 241 = 11110001
+    short a0;
+    unsigned short a1;
 
-    int num;
-    cin >> num;
-    int i;
-    cin >> i;
-    unsigned int k = pow(2, i - 1);//имитация сдвига
-    bool res = k & X;
-    unsigned int invert = X ^ 255; // побитовое исключающее или
+    int a2;
+    unsigned int a3;
 
-    cout << res << "\n" << invert;
+    long a4;
+    unsigned long a5;
+
+    long long a6;
+    unsigned long long a7;
+
+    float a8;
+    double a9;
+
+    unsigned short x, y;
+    unsigned long long z;
+
+    std::cin >> x;
+    std::cin >> y;
+    std::cin >> z;
+
+    unsigned long long ans;
+    ans = x * y * z;
+
+    std::cout << ans;
+
+    return 0;
 }
 
 
