@@ -1,0 +1,12 @@
+﻿  RES2.cpp
+C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\Res2\RES2\RES2.cpp(20,12): warning C4101: a9: неиспользованная локальная переменная
+C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\Res2\RES2\RES2.cpp(11,18): warning C4101: a3: неиспользованная локальная переменная
+C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\Res2\RES2\RES2.cpp(10,9): warning C4101: a2: неиспользованная локальная переменная
+C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\Res2\RES2\RES2.cpp(8,20): warning C4101: a1: неиспользованная локальная переменная
+C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\Res2\RES2\RES2.cpp(14,19): warning C4101: a5: неиспользованная локальная переменная
+C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\Res2\RES2\RES2.cpp(16,15): warning C4101: a6: неиспользованная локальная переменная
+C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\Res2\RES2\RES2.cpp(13,10): warning C4101: a4: неиспользованная локальная переменная
+C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\Res2\RES2\RES2.cpp(19,11): warning C4101: a8: неиспользованная локальная переменная
+C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\Res2\RES2\RES2.cpp(17,24): warning C4101: a7: неиспользованная локальная переменная
+C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\Res2\RES2\RES2.cpp(7,11): warning C4101: a0: неиспользованная локальная переменная
+  RES2.vcxproj -> C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\Res2\x64\Debug\RES2.exe
