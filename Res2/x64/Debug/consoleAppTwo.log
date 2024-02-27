@@ -1,0 +1,3 @@
+﻿  consoleAppTwo.cpp
+C:\Users\malce\source\repos\consoleAppTwo\consoleAppTwo\consoleAppTwo.cpp(21,20): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  consoleAppTwo.vcxproj -> C:\Users\malce\source\repos\consoleAppTwo\x64\Debug\consoleAppTwo.exe
