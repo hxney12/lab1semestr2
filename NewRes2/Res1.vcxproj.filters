@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\CMake2 v2\Res2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\GamerPC\OneDrive\Рабочий стол\res1\res1\lab1semestr2\lab1semestr2\CMake2 v2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{53E0FF7D-A1AC-37BA-85ED-D8D77736EB8C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

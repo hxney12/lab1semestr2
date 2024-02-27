@@ -1,0 +1,10 @@
+^C:\USERS\GAMERPC\ONEDRIVE\РАБОЧИЙ СТОЛ\RES1\RES1\LAB1SEMESTR2\LAB1SEMESTR2\CMAKE2 V2\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/GamerPC/OneDrive/Рабочий стол/res1/res1/lab1semestr2/lab1semestr2/CMake2 v2" "-BC:/Users/GamerPC/OneDrive/Рабочий стол/res1/res1/lab1semestr2/lab1semestr2/NewRes2" --check-stamp-file "C:/Users/GamerPC/OneDrive/Рабочий стол/res1/res1/lab1semestr2/lab1semestr2/NewRes2/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
